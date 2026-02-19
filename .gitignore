@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+launcher_accounts.json
+settings.json
+.replit
+replit.nix
+.local/
+.cache/
+.npm/
+*.log
